@@ -1,0 +1,28 @@
+baseURL = 'https://ellabartt.com/'
+languageCode = 'en-us'
+title = 'Ella Bartt'
+theme = 'hugo-resume'
+
+[params]
+address = "San Diego, CA"
+email = "barttella@gmail.com"
+url = "https://linkedin.com/in/ella-bartt/"
+firstName = "Ella"
+lastName = "Bartt"
+sections = ["skills","education", "experience", "contributions"]
+vcardfields = ["name"]
+
+[params.google]
+[params.handles]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/ella-bartt/"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+[mediaTypes]
+  [mediaTypes."text/vcard"]
+    suffixes = ["vcf"]

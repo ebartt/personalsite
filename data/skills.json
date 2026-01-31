@@ -1,0 +1,16 @@
+[
+  {
+      "grouping":"Technical Skills:",
+      "skills":[ "Python", "R", "SQL", "Tableau", "Power BI", "LaTeX", "Microsoft Office", "Excel",
+      "Machine Learning (Scikit-learn, PyTorch)", "Advanced Mathematics", "Data Visualization", "Data Analysis",
+      "Library database software"]
+  },{
+      "grouping":"Soft skills:",
+      "skills":[ "Office Communication", "Writing", "Presentation Skills", "Teaching", "Staff Supervision",
+      "Research Proposal Preparation"]
+  },
+  {
+      "grouping":"Languages:",
+      "skills":[ "English (Native)", "Spanish (Fluent)"]
+  }
+]
