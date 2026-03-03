@@ -2,6 +2,10 @@ baseURL = 'https://ellabartt.com/'
 languageCode = 'en-us'
 title = 'Ella Bartt'
 theme = 'hugo-resume'
+image = "img/gradphoto_site.png"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
 
 [params]
 address = "San Diego, CA"
@@ -9,13 +13,40 @@ email = "barttella@gmail.com"
 url = "https://linkedin.com/in/ella-bartt/"
 firstName = "Ella"
 lastName = "Bartt"
+profileImage = "img/IMG_8260.jpeg"
 sections = ["skills","education", "experience", "contributions"]
-vcardfields = ["name"]
+vcardfields = ["name",
+    "image",
+    "email",
+    # "phone",
+    "url",
+    # "title"
+    ]
+
+#showQr = true
+showContact = true
+#showBoards  = true
+# showCertifications = true
+# showSocializations = true
+# vcardfields = [
+#     "name",
+#     "image",
+#     # "org",
+#     "email",
+#     # "workemail",
+#     # "phone",
+#     "url",
+#     # "title"
+# ]
 
 [params.google]
-[params.handles]
+[[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/ella-bartt/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ebartt/"
 
 [outputs]
 home = ["HTML", "JSON"]
@@ -26,3 +57,10 @@ tag = "tags"
 [mediaTypes]
   [mediaTypes."text/vcard"]
     suffixes = ["vcf"]
+
+[outputFormats]
+  [outputFormats.VCard]
+    mediaType = "text/vcard"
+    baseName = "contact"
+    isPlainText = true
+    notAlternative = true
