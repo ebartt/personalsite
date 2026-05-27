@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 30 Apr 2026 12:57:26 -0800</lastBuildDate>
     <atom:link href="/tags/webscraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MacroLab, UCSD</title>
+      <title>MacroLab, UCSD: Data Pipelines and Visualizations</title>
       <link>/projects/contributions/macrolab/</link>
       <pubDate>Thu, 30 Apr 2026 12:57:26 -0800</pubDate>
       <guid>/projects/contributions/macrolab/</guid>
-      <description>&lt;p&gt;Dates: Sep 2025 - Jun 2026&lt;/p&gt;&#xA;&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&lt;/p&gt;&#xA;&lt;p&gt;• Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.&lt;/p&gt;&#xA;&lt;p&gt;• Code for gathering data from public sources can be found on my Github, including repositories for gathering the Pulitzer prize list, Booker prize winners, and NYT and Amazon Bestsellers lists.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dates: Sep 2025 - Jun 2026&lt;/p&gt;&#xA;&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&lt;/p&gt;&#xA;&lt;p&gt;• Engineered data pipelines and cleaning processes.&lt;/p&gt;&#xA;&lt;p&gt;• Synthesized data using Python and Microsoft PowerBI in a study about the privatization of the media industry.&lt;/p&gt;&#xA;&lt;p&gt;• Code for gathering data from public sources can be found on my Github, including repositories for gathering the Pulitzer prize list, Booker prize winners, and NYT and Amazon Bestsellers lists.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
