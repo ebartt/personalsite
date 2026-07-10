@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyTorch on Ella Bartt</title>
+    <link>/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Ella Bartt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Apr 2026 12:20:48 -0700</lastBuildDate>
+    <atom:link href="/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Char-RNN, LSTM modeling for Goodreads Reviews</title>
+      <link>/projects/contributions/char-rnn/</link>
+      <pubDate>Sat, 04 Apr 2026 12:20:48 -0700</pubDate>
+      <guid>/projects/contributions/char-rnn/</guid>
+      <description>&lt;p&gt;Dates: Jan 2026 - Mar 2026&lt;/p&gt;&#xA;&lt;p&gt;• Leveraged a Goodreads romance review dataset to create a Character-level Recurrent Neural Network.&lt;/p&gt;&#xA;&lt;p&gt;• Used machine learning methods from COGS 185 in PyTorch to create the Char-RNN. All coding was in Python, and visualizations were created using Matplotlib.&lt;/p&gt;&#xA;&lt;p&gt;• Utilized the best models for one- and five-star reviews to generate romance book reviews in the style of Goodreads.&lt;/p&gt;&#xA;&lt;p&gt;The full report can be found in the Github repository or below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

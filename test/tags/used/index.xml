@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Used on Ella Bartt</title>
+    <link>http://localhost:1313/tags/used/</link>
+    <description>Recent content in Used on Ella Bartt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 12:57:26 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/used/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacroLab, UCSD</title>
+      <link>http://localhost:1313/projects/contributions/macrolab/</link>
+      <pubDate>Fri, 30 Jan 2026 12:57:26 -0800</pubDate>
+      <guid>http://localhost:1313/projects/contributions/macrolab/</guid>
+      <description>&lt;p&gt;• Extracted and organized data from public sources using Python packages Pandas, Scrapy, and BeautifulSoup.&#xA;• Synthesized data using Python, PowerBI, and Tableau in a study about the privatization of the media industry.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

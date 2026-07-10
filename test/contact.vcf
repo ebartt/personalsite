@@ -1,0 +1,22 @@
+
+BEGIN:VCARD
+VERSION:4.0
+
+
+N:Bartt;Ella;;;
+FN:Ella Bartt
+
+
+
+EMAIL;TYPE=INTERNET,PREF:barttella@gmail.com
+
+
+
+PHOTO;TYPE=JPG;VALUE=URI:/img/IMG_8260.jpeg
+
+
+
+
+URL:/
+
+END:VCARD
